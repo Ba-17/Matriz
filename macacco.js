@@ -1,1 +1,2 @@
-let nomeUsuario='Ana,Bárbara,Michel'
+let nomeUsuario='Ana,Bárbara,Michel';
+alert(nomeUsuario)
