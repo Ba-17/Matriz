@@ -4,3 +4,5 @@ alert(nomeUsuario)
 function soma (número1, número2) {
     return número1+número2;
 }
+
+console.log(soma(2,2));
