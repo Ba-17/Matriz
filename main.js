@@ -16,6 +16,6 @@ let media=function (número1,número2,número3){
 }
 console.log(media(1,2,3));
 
-let nome=parseInt(prompt('qual foi sua nota nos 3 trimestre?'));
+let nome=parseInt(prompt('qual foi sua nota nos 3 trimestres?'));
 document.write(nome);
 
