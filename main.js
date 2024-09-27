@@ -11,7 +11,7 @@ function areaQuadrado (lado) {
 }
 console.log(areaQuadrado(6));
 
-let media=function (número1,número2,número3,número4){
-    return número1+número2+número3/número4;
+let media=function (número1,número2,número3){
+    return (número1+número2+número3)/3;
 }
-console.log(soma(1,2,3,3));
+    console.log(soma(1,2,3));
