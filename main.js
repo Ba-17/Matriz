@@ -11,8 +11,6 @@
 // }
 // console.log(areaQuadrado(6));
 
-
-
 // let media=function (número1,número2,número3){
 //     return (número1+número2+número3)/3;
 // }
