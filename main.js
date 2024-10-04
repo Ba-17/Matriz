@@ -40,7 +40,7 @@ for (let i = 0; i < estados.length; i++) {
     
 }
 
-let idade=16;
+let idade=parseInt(prompt('qual sua idade?'));
 if(idade>17){
 console.log('Pode dirigir');
 }
@@ -48,6 +48,3 @@ else{
 console.log('Ilegal dirigir')
 }
 
-if('qual a idade'){
-    console.log (16)
-}
