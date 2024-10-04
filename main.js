@@ -47,3 +47,7 @@ console.log('Pode dirigir');
 else{
 console.log('Ilegal dirigir')
 }
+
+if('qual a idade'){
+    console.log (16)
+}
